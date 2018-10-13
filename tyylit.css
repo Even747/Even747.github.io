@@ -1,0 +1,76 @@
+html {
+  background: url("bg.jpeg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#container{
+  position:absolute;
+  margin-left:-300px;
+	left: 50%;
+  font-size: 26px;
+}
+
+#kello{
+  color: #D8D8D8 ;
+  opacity: 0.83;
+  text-align: center;
+  font-size: 32px;
+  margin-top: 10%;
+	margin-bottom: 8px;
+  background-color: #101010 ;
+  width: 250px;
+  margin-left: 175px;
+}
+
+#book1 {
+  opacity: 0.83;
+	background-color: #101010 ;
+  float:left;
+  width: 200px;
+  text-align: center;
+  border-color: #404040;
+
+}
+
+#book2 {
+  opacity: 0.83;
+	background-color: #101010 ;
+  float:left;
+  width: 200px;
+  text-align: center;
+}
+
+#book3{
+  opacity: 0.83;
+	background-color: #101010 ;
+  float:left;
+  width: 200px;
+  text-align: center;
+}
+
+a:link {
+    color: #D8D8D8 ;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #D8D8D8 ;
+    text-decoration: none;
+}
+
+a:hover {
+    color:#B0B0B0  ;
+    text-decoration: none;
+}
+/*
+#extra{
+  opacity: 0.83;
+  background-color: #101010;
+  width: 770px;
+  height: 6px;
+  float: left
+;
+*/
